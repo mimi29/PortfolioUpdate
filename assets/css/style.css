@@ -1,0 +1,71 @@
+body {
+    background-color: lightgrey;
+    font-size: larger;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.label-bold {
+    color: black;
+    font-weight: bold;
+    font-size: 15;
+}
+
+.label {
+    font-weight: bold !important;
+}
+
+.jumbotron {
+    background-color: rgb(97, 178, 167);
+    color: white;
+}
+
+.input-group-form1 {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+.input-group-form2 {
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+}
+
+.display-form {
+    margin: 10px;
+}
+
+.p2 {
+    margin-top: 15px !important;
+    margin-bottom: 2px;
+}
+
+#navi {
+    background-color: #ffffff;
+    height: 200px;
+    width: 1900px;
+    background-image: url("../images/banner.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+
+.topnav {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: darkblue;
+}
+.h51 {
+    margin-left: 20px;
+}
+
+.nav-link {
+    color: green !important;
+    font-size: 22px;
+    font-weight: bold !important;
+}
+
+.card {
+    margin: 10px;
+}
+
+
