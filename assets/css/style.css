@@ -22,8 +22,12 @@ body {
 }
 
 #summaryId {
-    margin: 30px;
-    color: rgb(13, 13, 88);
+    margin-top: 30px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:10px;
+    color: seashell; 
+    background-color:  #4d3630;
 }
 
 .card {
